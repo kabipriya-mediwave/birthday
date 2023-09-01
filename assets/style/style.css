@@ -4,6 +4,8 @@ body{
     background: #a2d2ff ;
     color: #ffffff;
     display:flex;
+    flex-direction:column;
+    align-items:center;
 }
 
 h1, h2, h3,h4, p{
