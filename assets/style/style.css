@@ -59,6 +59,23 @@ h1, h2, h3,h4, p{
     background-image:url("/home/trainee/projectkabi1/birthday/assets/gift-cover.jpg");
     background-size: cover;
 }
-.gift-img:hover{
+#gift-img-happy:hover{
     background-image:url("/home/trainee/projectkabi1/birthday/assets/200w(2).gif");
+}
+#gift-img-hot:hover{
+    background-image:url("https://media4.giphy.com/media/L0yEL1eQeJ8xyb66Jl/giphy.gif?cid=ecf05e47wg0hq62df41rqjm66su82eggguneqwcstetlddib&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
+#gift-img-genious:hover{
+    background-image:url("https://media3.giphy.com/media/KCn1SXV7gAlXgc0MOu/giphy.gif?cid=ecf05e47tx1a4kcgc1mko361y1djj7xeksghmvmebt0frds0&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
+#gift-img-badass:hover{
+    background-image:url("https://media3.giphy.com/media/JL7ZkACcStPIiEVdGO/giphy.gif?cid=ecf05e47wg0hq62df41rqjm66su82eggguneqwcstetlddib&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
+#gift-img-cheers{
+
+    height:200px;
+}
+#gift-img-cheers:hover{
+
+    background-image:url("https://media2.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=ecf05e47gybhgs5phbo5c41r6j37v1dkjcvh63quteuhd8ph&ep=v1_gifs_search&rid=giphy.gif&ct=g");
 }
